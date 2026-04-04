@@ -35,7 +35,7 @@
 
 ###
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://www.linkedin.com/in/wisnuakbara/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
@@ -45,6 +45,6 @@
   <a href="mailto:wisnuakbara@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-</p>
+</p> -->
 
 ###
